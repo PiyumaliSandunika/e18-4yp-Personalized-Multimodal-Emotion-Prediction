@@ -3,7 +3,7 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: e18-4yp-Multimodal-Emotion-Prediction-Using-Reinforcement-Learning
+repository-name: e18-4yp-Personalized-Multimodal-Emotion-Prediction
 title:
 ---
 
